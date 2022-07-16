@@ -1,2 +1,1 @@
-# Missing-Semester
-MIT Missing-semester
+# MIT_CS-Missing-Semester
