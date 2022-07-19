@@ -3,3 +3,4 @@ mcd() {
 	cd "$1"
 }
 
+# foobar
